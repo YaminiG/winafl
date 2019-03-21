@@ -1,0 +1,2 @@
+WINE is a windows emulator that basically runs Windows applications on Lunix, BSD, Solaris etc. Wine is free and open source compatible that allows computer programs developed for microsoft Windows to run on unix like operating systems.
+
